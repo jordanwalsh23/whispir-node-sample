@@ -1,6 +1,6 @@
 # NodeJS server for Whispir
 
-API Key is available at [http://developer.whispir.com](http://developer.whispir.com)
+API Key is available at [https://whispir.io](https://whispir.io)
 
 You will need to add the username/password/apikey.
 
